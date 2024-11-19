@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0c5db35-1e59-4d79-80af-cdb7fbe220ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ArrayUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/10 Perimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/10 Perimeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/11 TriAngleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/11 TriAngleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12 SimpleInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/12 SimpleInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13 CompoundInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/13 CompoundInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/14 FahrenheitToCelsius.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/14 FahrenheitToCelsius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/15 PositiveNegativeZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/15 PositiveNegativeZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/16 OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/16 OddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/17 GreatestOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/17 GreatestOfThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/18 LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/18 LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/19 GradingOfMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/19 GradingOfMarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/20 AgeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/20 AgeCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/21 BitwiseAnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/21 BitwiseAnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/22 BitwiseOr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/22 BitwiseOr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/23 BitwiseXOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/23 BitwiseXOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/24 BitwiseCompliment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/24 BitwiseCompliment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/25 LeftShift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/25 LeftShift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/26 RightShift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/26 RightShift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/27 OddEvenBitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/27 OddEvenBitwise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/28 MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/28 MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/29 OddSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/29 OddSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/30 Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/30 Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/31 SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/31 SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/32 LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/32 LCM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/33 GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/33 GCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/34 PrimeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/34 PrimeNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/35 ReverseTheDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/35 ReverseTheDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/36 FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/36 FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/37 ArmstrongNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/37 ArmstrongNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/38 PalindromeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/38 PalindromeNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/39 LoopPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/39 LoopPatterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/40 ArraySumAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/40 ArraySumAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/8 ArithmeticCal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/8 ArithmeticCal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/9 FloatMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/9 FloatMultiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2o9Vs29uXkviGbwus3XJFexKSoi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AgeCalculator.executor": "Run",
+    "Application.ArithmeticCal.executor": "Run",
+    "Application.ArmstrongNum.executor": "Run",
+    "Application.ArraySumAverage.executor": "Run",
+    "Application.BitwiseAnd.executor": "Run",
+    "Application.BitwiseCompliment.executor": "Run",
+    "Application.BitwiseOr.executor": "Run",
+    "Application.BitwiseXOR.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.CompoundInterest.executor": "Run",
+    "Application.DivTwoNum.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.FahrenheitToCelsius.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.FloatMultiplication.executor": "Run",
+    "Application.GCD.executor": "Run",
+    "Application.GradingOfMarks.executor": "Run",
+    "Application.GreatestOfThree.executor": "Run",
+    "Application.LCM.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.LeftHalfPyramid.executor": "Run",
+    "Application.LeftShift.executor": "Run",
+    "Application.LoopPatterns.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.OddEven.executor": "Run",
+    "Application.OddEvenBitwise.executor": "Run",
+    "Application.OddSum.executor": "Run",
+    "Application.PalindromeNum.executor": "Run",
+    "Application.Perimeter.executor": "Run",
+    "Application.PositiveNegativeZero.executor": "Run",
+    "Application.PrimeNum.executor": "Run",
+    "Application.ReverseRightHalfPyramid.executor": "Run",
+    "Application.ReverseTheDigits.executor": "Run",
+    "Application.RightHalfPyramid.executor": "Run",
+    "Application.RightShift.executor": "Run",
+    "Application.SimpleInterest.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
+    "Application.SumTwoNum.executor": "Run",
+    "Application.Swap.executor": "Run",
+    "Application.TriAngleArea.executor": "Run",
+    "Application.Welcome.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Tutorials/Java course/3 Data Types Variables and Input/Challenges/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ArraySumAverage">
+    <configuration name="ArithmeticCal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArithmeticCal" />
+      <module name="Programming Challenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraySumAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraySumAverage" />
+      <module name="Programming Challenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="Programming Challenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
+      <module name="Programming Challenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopPatterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopPatterns" />
+      <module name="Programming Challenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArraySumAverage" />
+        <item itemvalue="Application.ArithmeticCal" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.LoopPatterns" />
+        <item itemvalue="Application.FibonacciSeries" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0c5db35-1e59-4d79-80af-cdb7fbe220ba" name="Changes" comment="" />
+      <created>1730281986427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730281986427</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/9 FloatMultiplication.java</url>
+          <line>3</line>
+          <properties class="FloatMultiplication" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/27 OddEvenBitwise.java</url>
+          <line>3</line>
+          <properties class="OddEvenBitwise" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MonthSwitch {
+class MonthSwitch {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome to Month mapping\n");

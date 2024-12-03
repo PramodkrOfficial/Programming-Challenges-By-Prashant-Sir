@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalculatorSwitch {
+class CalculatorSwitch {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome to Calculator using switch case\n");
@@ -22,3 +22,5 @@ public class CalculatorSwitch {
         System.out.println("Your answer is: " + result);
     }
 }
+
+
